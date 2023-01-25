@@ -57,7 +57,7 @@
   line-height: 1.5em;
 }
 .itens:first-child{ 
-  /* nth-child(n)/(2n)pares */
+  /* nth-child(l)/(2n)pares */
   font-weight: bold;
 }
 .itens::before{
@@ -77,3 +77,5 @@
 
 /* img + p após a imagem
 img ~ p tods após a imagem */
+
+/* .principal p:not(#missao) paragrafos que nao possuem o id missao-exclusão */
