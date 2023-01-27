@@ -15,7 +15,7 @@ Site da Barberia Alura realizado junto a plataforma Alura - curso HTML5 e CSS3  
 <br>
 
 <p align="center">
-  <img alt="Barbearia-Alura" src="" width="100%">
+  <img alt="Barbearia-Alura" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
