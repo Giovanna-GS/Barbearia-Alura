@@ -8,8 +8,6 @@ Site da Barberia Alura realizado junto a plataforma Alura - curso HTML5 e CSS3  
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
   
-  <p align = "center" style="color:yellow">▶ Status : em andamento</p>
-  
 </p>
 
 <br>
