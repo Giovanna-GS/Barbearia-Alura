@@ -6,45 +6,58 @@
        position: static
     
       }
+      nav a{
+        line-height: 1.2em;
+      }
 
       /* HOME */
-    .lista-beneficios,
-      .imagem-beneficios {
-          width: 100%;
-      }
+    
     .barra{
       text-align: center;
     }  
     .banner{
       height: 50%;
+    
     }
-    .conteudo-beneficios{
+    .principal{
+      display: flex;
+      flex-direction: column;
       text-align: center;
+      align-items: center;
     }
-    .imagem-beneficios{
+    .principal img{
       width: 90%;
+      height: 50%;
+      
+    }
+    .titulo-sobre{
+      margin-top: 2em;
+    }
+    .lista-beneficios{
+      text-align: justify;
+      
     }
     /* PRODUTOS */
       .produtos {
       width: auto;
       
-      
       }
       .produtos li{
         display: block;
-        width: 100%;
-        margin: 20px 0;
+        width: 80%;
+        margin: 20px 50px;
         
       }
-
+      /* CONTATOS */
+      .contato{
+        width: auto;
+      }
       .input-padrao{
-        width: 90%;
+        width: 70%;
       }
       .enviar{
         width: 90%;
       }
-     
-      
      
     }
   
