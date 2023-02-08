@@ -1,6 +1,50 @@
-@media screen and(max-width: 480px) {
-.barra{
-    width: auto;
-  }
-  }
+@media (max-width: 590px) {
+  .barra, .principal, .mapa-conteudo, .conteudo-beneficios, .video{
+      width: auto;
+    }
+    nav{
+       position: static
+    
+      }
+
+      /* HOME */
+    .lista-beneficios,
+      .imagem-beneficios {
+          width: 100%;
+      }
+    .barra{
+      text-align: center;
+    }  
+    .banner{
+      height: 50%;
+    }
+    .conteudo-beneficios{
+      text-align: center;
+    }
+    .imagem-beneficios{
+      width: 90%;
+    }
+    /* PRODUTOS */
+      .produtos {
+      width: auto;
+      
+      
+      }
+      .produtos li{
+        display: block;
+        width: 100%;
+        margin: 20px 0;
+        
+      }
+
+      .input-padrao{
+        width: 90%;
+      }
+      .enviar{
+        width: 90%;
+      }
+     
+      
+     
+    }
   
